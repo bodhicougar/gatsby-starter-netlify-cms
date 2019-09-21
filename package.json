@@ -1,5 +1,5 @@
 {
-  "name": "Kaldi Prototype 4 Accademia delle Arti",
+  "name": "gatsby-netlify-bulmaCSS-kaldi-testseite",
   "version": "1.0.0",
   "description": "Kaldi for Accademia delle Arti",
   "main": "gatsby-config.js",
@@ -40,6 +40,7 @@
   "author": "bodhicougar",
   "dependencies": {
     "bulma": "^0.7.0",
+    "core-js": "^3.2.1",
     "gatsby": "^2.13.31",
     "gatsby-image": "^2.0.23",
     "gatsby-plugin-netlify": "^2.0.6",
