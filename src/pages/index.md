@@ -3,7 +3,7 @@ templateKey: index-page
 title: Kaffee mit Umweltbewußtsein
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Den Grodino mental unterstützen! Er brauchts ;-D
+subheading: Buon Sera!
 mainpitch:
   title: Warum Chinotto?
   description: >
