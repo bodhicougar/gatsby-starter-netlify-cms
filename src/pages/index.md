@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Kaffee mit Umweltbewußtsein
+title: Kaffee oder Chinotto
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Buon Sera!
+heading: Die große Chinotto Frage
+subheading: Ist man als Grodino automatisch auch ein Chinotto?
 mainpitch:
   title: Warum Chinotto?
   description: >
