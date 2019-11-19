@@ -77,6 +77,7 @@ const Footer = class extends React.Component {
                 <a
                   title="facebook"
                   href="https://www.facebook.com/bbmediadesign/"
+                  target="_blank"
                 >
                   <img
                     src={facebook}
@@ -85,6 +86,8 @@ const Footer = class extends React.Component {
                   />
                 </a>
                 <a title="twitter" href="https://twitter.com/BBMediaDesign">
+                  {' '}
+                  target="_blank"
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -95,6 +98,7 @@ const Footer = class extends React.Component {
                 <a
                   title="instagram"
                   href="https://www.instagram.com/blackboxmd/"
+                  target="_blank"
                 >
                   <img
                     src={instagram}
@@ -105,6 +109,7 @@ const Footer = class extends React.Component {
                 <a
                   title="vimeo"
                   href="https://www.youtube.com/watch?v=oJwrR37h-Lk"
+                  target="_blank"
                 >
                   <img
                     src={vimeo}
