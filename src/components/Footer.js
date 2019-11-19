@@ -6,6 +6,7 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
+import linkedin from '../img/social/linkedin.svg'
 
 const Footer = class extends React.Component {
   render() {
@@ -75,7 +76,19 @@ const Footer = class extends React.Component {
               </div>
               <div className="column is-4 social">
                 <a
-                  title="facebook"
+                  title="LinkedIn"
+                  href="https://www.linkedin.com/in/blackboxmd/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img
+                    src={linkedin}
+                    alt="LinkedIn"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
+                <a
+                  title="Facebook"
                   href="https://www.facebook.com/bbmediadesign/"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -87,7 +100,7 @@ const Footer = class extends React.Component {
                   />
                 </a>
                 <a
-                  title="twitter"
+                  title="Twitter"
                   href="https://twitter.com/BBMediaDesign"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -100,7 +113,7 @@ const Footer = class extends React.Component {
                   />
                 </a>
                 <a
-                  title="instagram"
+                  title="Instagram"
                   href="https://www.instagram.com/blackboxmd/"
                   target="_blank"
                   rel="noopener noreferrer"
@@ -112,14 +125,14 @@ const Footer = class extends React.Component {
                   />
                 </a>
                 <a
-                  title="vimeo"
+                  title="Youtube"
                   href="https://www.youtube.com/watch?v=oJwrR37h-Lk"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <img
                     src={vimeo}
-                    alt="Vimeo"
+                    alt="Youtube"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
