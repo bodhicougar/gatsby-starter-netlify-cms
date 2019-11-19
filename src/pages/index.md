@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: Kaffee mit Umweltbewußtsein
+title: Kaffee oder Chinotto
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Den Grodino mental unterstützen! Er brauchts ;-D
+heading: Die große Chinotto Frage
+subheading: Ist man als Grodino automatisch auch ein Chinotto?
 mainpitch:
   title: Warum Chinotto?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Wir haben Betriebsurlaub von 20. Dezember 2019 bis einschließlich 02. Jänner
+    2020.
+
+    Patricia Eller
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
