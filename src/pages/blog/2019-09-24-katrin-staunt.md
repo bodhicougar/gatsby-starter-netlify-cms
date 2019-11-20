@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
-title: Katrin staunt
+title: Katrin vom CMS überzeugt
 date: 2019-11-05T23:00:00.000Z
-description: 'Katrin Bermoser, Mag. Dr. med. im LeopoldinuMED'
+description: 'Katrin Bermoser, Mag. Dr. med. im LeopoldinuMED mag das KALDI CMS'
 featuredpost: true
 featuredimage: /img/csm_bermoser_e805f1e383.jpg
 tags:
