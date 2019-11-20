@@ -17,4 +17,8 @@ tags:
   - SaaS
   - PaaS
 ---
-Experten sind sich einig, dass die Cloud kein vorrübergehendes Phänomen ist. Mehr noch: Cloud Computing und Software-as-a-Service (SaaS) sollen bis 2020 die klassischen Geschäftsmodelle sogar ablösen. Das geht aus dem Report «Cloud, SaaS und mobile IT-Lösungen im Mittelstand 2015» der Frankfurter IT- und Webexperten von DiOmega hervor. Wer also heute nicht auf den «Zug gen Himmel» aufsteigt, verpasst einen entscheidenden Wettbewerbsvorteil gegenüber der Konkurrenz – vor allem im Zeitalter der Digitalisierung. Noch mehr Flexibilität und Agilität ist gefragt, die durch Cloud Computing allein dadurch erreicht werden kann, dass IT-Services an jedem Ort der Welt zur Verfügung stehen oder bei Bedarf Speicher, Rechenpower oder Applikationen ohne Investition in die eigene Infrastruktur und administrativen Aufwand dazu gebucht werden können.
+**Experten sind sich einig, dass die Cloud kein vorrübergehendes Phänomen ist.** 
+
+Mehr noch: Cloud Computing und Software-as-a-Service (SaaS) sollen bis 2020 die klassischen Geschäftsmodelle sogar ablösen. Das geht aus dem Report «Cloud, SaaS und mobile IT-Lösungen im Mittelstand 2015» der Frankfurter IT- und Webexperten von DiOmega hervor. Wer also heute nicht auf den «Zug gen Himmel» aufsteigt, verpasst einen entscheidenden Wettbewerbsvorteil gegenüber der Konkurrenz – vor allem im Zeitalter der Digitalisierung. Noch mehr Flexibilität und Agilität ist gefragt, die durch Cloud Computing allein dadurch erreicht werden kann, dass IT-Services an jedem Ort der Welt zur Verfügung stehen oder bei Bedarf Speicher, Rechenpower oder Applikationen ohne Investition in die eigene Infrastruktur und administrativen Aufwand dazu gebucht werden können.
+
+[Zurück.](https://chinotto.netlify.com/blog)
