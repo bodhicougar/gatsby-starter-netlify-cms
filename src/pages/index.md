@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: Die große Chinotto Frage
 subheading: Ist man als Grodino automatisch auch ein Chinotto?
 mainpitch:
-  title: Warum Chinotto?
+  title: Warum Chinotto? Wozu Crodino?
   description: >
     Wir haben Betriebsurlaub von 20. Dezember 2019 bis einschließlich 02. Jänner
     2020.
