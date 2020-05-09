@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-netlify-bulma",
-  "version": "1.0.0",
-  "description": "Kaldi for Accademia delle Arti",
+  "name": "gatsby-starter-netlify-cms",
+  "version": "1.1.0",
+  "description": "Kaldi powered by BlackBoxMediaDesign",
   "main": "gatsby-config.js",
   "scripts": {
     "clean": "gatsby clean",
@@ -10,7 +10,7 @@
     "start": "run-p start:**",
     "build:app": "npm run clean && gatsby build",
     "build:lambda": "netlify-lambda build src/lambda",
-    "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
+    "build": "npm run clean && gatsby build",
     "develop": "npm run clean && gatsby develop",
     "serve": "gatsby serve",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
@@ -72,7 +72,7 @@
     "prop-types": "^15.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-helmet": "^5.2.0",
+    "react-helmet": "^5.2.1",
     "serialize-to-js": "^3.1.1",
     "uuid": "^3.4.0"
   },

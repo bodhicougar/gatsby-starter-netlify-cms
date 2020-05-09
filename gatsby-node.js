@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
