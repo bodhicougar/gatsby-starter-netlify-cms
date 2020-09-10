@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Unsere Dienstleistungen
-image: /img/bbmd_logo.jpg
+image: /img/geräte-2020.09.01-2020.09.10-.png
 heading: Im Internet gesehen & gefunden werden
 description: Als Experten im Bereich Google Ads helfen wir Ihnen, sich dort zu
   platzieren, wo Sie von Kunden gefunden werden.
