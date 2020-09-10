@@ -1,10 +1,10 @@
 ---
 templateKey: product-page
 title: Unsere Dienstleistungen
-image: /img/geräte-2020.09.01-2020.09.10-.png
+image: /img/geräte.png
 heading: Im Internet gesehen & gefunden werden
 description: Als Experten im Bereich Google Ads helfen wir Ihnen, sich dort zu
-  platzieren, wo Sie von Kunden gefunden werden.
+  platzieren, wo Sie von IHREN Kunden gefunden werden.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -36,11 +36,9 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: Was wir für Sie machen können
   description: >
-    Als Experten im Bereich Suchmaschinenwerbung bzw. Google Ads helfen wir
-    Ihnen, sich dort zu platzieren, wo Sie von Kunden gefunden werden. Durch
-    effektive Anzeigen in den Suchmaschinen Google & YouTube, erreichen Sie
-    zukünftig Ihre Zielgruppe schnell und kosteneffizient – Für nachhaltig mehr
-    Kunden & Umsatz.
+    Durch effektive Anzeigen in den Suchmaschinen Google & YouTube, erreichen
+    Sie zukünftig Ihre Zielgruppe schnell und kosteneffizient – Für nachhaltig
+    mehr Kunden & Umsatz.
 main:
   heading: Great coffee with no compromises
   description: >
