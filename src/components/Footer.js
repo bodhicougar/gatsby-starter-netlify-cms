@@ -7,6 +7,7 @@ import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
+import youtube from '../img/social/youtube.svg'
 import linkedin from '../img/social/linkedin.svg'
 
 const Footer = class extends React.Component {
@@ -28,17 +29,17 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
-                        Home
+                        Start
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        About
+                        Über
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Products
+                        Services
                       </Link>
                     </li>
                     <li>
@@ -64,12 +65,12 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Blog
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/contact">
-                        Contact
+                        Kontakt
                       </Link>
                     </li>
                   </ul>
@@ -132,7 +133,7 @@ const Footer = class extends React.Component {
                   rel="noopener noreferrer"
                 >
                   <img
-                    src={vimeo}
+                    src={youtube}
                     alt="Youtube"
                     style={{ width: '1em', height: '1em' }}
                   />
