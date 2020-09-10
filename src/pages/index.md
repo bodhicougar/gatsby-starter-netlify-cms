@@ -1,21 +1,21 @@
 ---
 templateKey: index-page
-title: Kaffee oder Chinotto
-image: /img/home-jumbotron.jpg
-heading: Die große Chinotto Frage
-subheading: Ist man als Grodino automatisch auch ein Chinotto?
+title: Positionierung im Web
+image: /img/bbmd_logo.jpg
+heading: Werden Sie von Ihren Kunden im Internet gefunden
+subheading: Effektives SEO & SEA-Anzeigen mit Google Ads
 mainpitch:
-  title: Warum Chinotto? Wozu Crodino?
-  description: >
-    Wir haben Betriebsurlaub von 20. Dezember 2019 bis einschließlich 02. Jänner
-    2020.
-
-    Patricia Eller
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: SEA-Kampagnen für Dienstleister & YouTube Kanäle
+  description: Als Experten im Bereich Google Ads helfen wir Ihnen, sich dort zu
+    platzieren, wo Sie von Kunden gefunden werden. Durch bedürfnisorientierte
+    Anzeigen in den Suchmaschinen Google & YouTube, erreichen Sie Ihre
+    Zielgruppe zukünftig schnell und kosteneffizient.
+description: Sei einzigartig & nicht austauschbar. Wer in den heutigen Märkten
+  bestehen will, muss weit über das Mittelmaß hinausgehen. Konsequenz &
+  Engagement vorausgesetzt, zu seiner Vision stehen, Positionierung als inneren
+  Antrieb verstehen, dann kann ein Kompass für deine einzigartige Positionierung
+  entstehen, egal ob es sich um eine Neugründung oder ein schon bestehendes
+  Unternehmen handelt, EPU wie KMU.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,7 +45,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: Was wir tun können
+  heading: Was wir für Sie tun können
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
@@ -68,4 +68,3 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
-
