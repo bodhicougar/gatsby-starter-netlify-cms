@@ -1,15 +1,14 @@
 ---
 templateKey: index-page
 title: Positionierung im Web
-image: /img/bbmediadesign.jpg
+image: /img/bbmd_logo.jpg
 heading: Werden Sie von Ihren Kunden im Internet gefunden
 subheading: Effektives SEO & SEA-Anzeigen mit Google Ads
 mainpitch:
   title: SEA-Kampagnen für Dienstleister & YouTube Kanäle
-  description: Als Experten im Bereich Google Ads helfen wir Ihnen, sich dort zu
-    platzieren, wo Sie von Kunden gefunden werden. Durch bedürfnisorientierte
-    Anzeigen in den Suchmaschinen Google & YouTube, erreichen Sie Ihre
-    Zielgruppe zukünftig schnell und kosteneffizient.
+  description: Durch bedürfnisorientierte Anzeigen in den Suchmaschinen Google &
+    YouTube, erreichen Sie Ihre Zielgruppe zukünftig schnell und
+    kosteneffizient.
 description: Sei einzigartig & nicht austauschbar. Wer in den heutigen Märkten
   bestehen will, muss weit über das Mittelmaß hinausgehen. Konsequenz &
   Engagement vorausgesetzt, zu seiner Vision stehen, Positionierung als inneren
@@ -47,10 +46,8 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: Was wir für Sie tun können
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Als Experten im Bereich Google Ads helfen wir Ihnen, sich dort zu
+    platzieren, wo Sie von Kunden gefunden werden.
 main:
   heading: Great coffee with no compromises
   description: >
