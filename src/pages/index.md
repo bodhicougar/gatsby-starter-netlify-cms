@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Positionierung im Web
-image: /img/bbmediadesign_yt.jpg
+image: /img/bbmediadesign.jpg
 heading: Werden Sie von Ihren Kunden im Internet gefunden
 subheading: Effektives SEO & SEA-Anzeigen mit Google Ads
 mainpitch:
