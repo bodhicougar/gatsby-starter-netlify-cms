@@ -1,14 +1,14 @@
 ---
 templateKey: index-page
 title: Positionierung im Web
-image: /img/bbmd_logo.jpg
+image: /img/bbmd-banner.jpg
 heading: Werden Sie von Ihren Kunden im Internet gefunden
 subheading: Effektives SEO & SEA-Anzeigen mit Google Ads
 mainpitch:
   title: SEA-Kampagnen für Dienstleister & YouTube Kanäle
   description: Durch bedürfnisorientierte Anzeigen in den Suchmaschinen Google &
-    YouTube, erreichen Sie Ihre Zielgruppe zukünftig schnell und
-    kosteneffizient.
+    YouTube - auf Wunsch auch Facebook Ads Kampagnen sowie Werbung auf Amazon -
+    erreichen Sie Ihre Zielgruppe zukünftig schnell und kosteneffizient.
 description: Sei einzigartig & nicht austauschbar. Wer in den heutigen Märkten
   bestehen will, muss weit über das Mittelmaß hinausgehen. Konsequenz &
   Engagement vorausgesetzt, zu seiner Vision stehen, Positionierung als inneren
