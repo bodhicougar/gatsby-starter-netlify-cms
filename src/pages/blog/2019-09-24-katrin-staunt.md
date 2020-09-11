@@ -12,8 +12,9 @@ tags:
   - Leopoldinum
   - Hall in Tirol
 ---
+
 **Chirurgische Praxis im ehemaligen Internatsbereich für Berufsschüler**
 
 Nach einem größeren Umbau des 2. OG von Juli bis Dezember 2018 konnte am 18. Jänner 2019 eine chirurgische Praxis mit der Spezialisierung auf Magen- und Darmspiegelungen eröffnet werden. Auf insgesamt 390 m² teilen sich die Fachärzte Patricia Eller, Thomas Pittl und Katrin Bermoser die Räumlichkeiten des ehemaligen Internates für Berufsschüler und führen neben internistischen Untersuchungen auch kleinere chirurgische Eingriffe durch.
 
-[Zurück.](https://chinotto.netlify.com/blog)
+[Zurück.](https://www.blackboxmd.click/blog)
